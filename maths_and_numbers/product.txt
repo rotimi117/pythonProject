@@ -1,0 +1,6 @@
+200_000 bag of rice 4 
+300_000 bag of beans 7 
+200_000 bag of garri 6 
+200_000 bag of salt 7 
+200_000 bag of meat 5 
+200_000 bag of bread 4 
